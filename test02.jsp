@@ -8,6 +8,6 @@
 </head>
 <body>
 <jsp:include page="/common/menu.jsp" />
-테스트01페이지입니다.
+테스트02페이지입니다.
 </body>
 </html>
